@@ -1,2 +1,4 @@
-# PF-Lab03-25K-0968
-Lab 03 – Tasks
+# About Me
+Hi, I am Arsal Ali.  
+I am a BCS-1C student.  
+I am interested in ***AI and Cybersecurity***.
